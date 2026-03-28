@@ -27,24 +27,6 @@ Matplotlib
 Seaborn
 Project Structure
 fertilizer-recommendation-system/
-│
-├── app.py
-├── requirements.txt
-├── fertilizer_model.pkl
-├── scaler.pkl
-├── label_encoders.pkl
-├── fertilizer_recommendation_dataset.csv
-└── fertilizer_project.ipynb
-Run Locally
-
-Clone the repository:
-
-git clone https://github.com/your-username/fertilizer-recommendation-system.git
-cd fertilizer-recommendation-system
-
-Install dependencies:
-
-pip install -r requirements.txt
 
 Run Streamlit app:
 
