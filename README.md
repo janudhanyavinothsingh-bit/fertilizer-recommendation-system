@@ -7,6 +7,7 @@ This project uses a Random Forest Classifier trained on agricultural data and is
 Live Demo
 
 Try the free demo app here: Paste your Streamlit app link here
+
 https://fertilizer-recommendation-system-nn8bpjnvsyngq264zeui8r.streamlit.app/
 
 Features
