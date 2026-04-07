@@ -16,6 +16,7 @@ Built with machine learning using Random Forest
 Interactive Streamlit web interface
 Model, scaler, and encoders saved for future use
 Free live demo deployment
+
 Tech Stack
 Python
 Pandas
@@ -56,6 +57,8 @@ Weather API integration
 Cloud deployment
 Mobile-friendly UI
 Crop yield prediction extension
+
+
 Author
 
 Janu Dhanya Vinoth Singh
